@@ -1,0 +1,1365 @@
+Applied Linguistics 19/4 515-537
+
+© Oxford University Press 1998
+
+Metacognitive Knowledge and Language
+Learning1
+ANITA L WENDEN
+York College, City University of New York
+
+INTRODUCTION
+'Is this a memory thing? (referring to a laboratory task) didn't they tell
+you I can't do this stuff ? didn't they tell you I don't have a memory 7'
+(a learning disabled 11-year old)
+'I think the improvement of language is due to some ability
+personal ability In my case, I have no personal ability So I think it will
+take a long time
+there is no good way to speed up my learning (a
+Japanese business man)
+'I'm watching my English by learning more vocabulary because
+without words—English consists of words and I think I should learn
+more In level 9,1 was really studying English I felt relaxed I was doing
+something I was learning words' (a Yugoslavian undergraduate)
+These statements, excerpted from learner accounts,2 suggest that learners of
+different ages and varying in learning proficiency will have acquired some
+knowledge about learning, which influences their approach to learning and
+the expectations they hold about the outcome of their efforts It is this
+knowledge about learning, referred to as metacognitive knowledge, that is the
+focus of this article
+Foreign and second language educators involved in learner training, l e
+providing instruction in the use of cognitive strategies or the skills for selfdirected language learning, agree that metacognitive knowledge should also
+be a component of these programs (eg Holec 1981, 1990, 1994, Wenden
+1986, 1987a, 1991, 1995, Dickinson 1987, Horwitz 1987, 1988, Casanave
+1988, Carrell 1989, Eriksson 1993, Cotterall 1993, 1995 , Little 1994, Chamot
+
+Downloaded from http://applij.oxfordjournals.org/ at Pennsylvania State University on March 4, 2016
+
+Dating back to the early 80s, the FL/SL bterature on learner strategies and on
+self-directed language learning documents an ongoing recognition of the need
+to help language learners reflect upon and refine their bebefs and knowledge
+about learning, I e their metacognitive knowledge To date, however, this
+literature has not been explicit about the function of this knowledge in
+language learning This article reviews selected theoretical and research
+literature on metacogmtion to address this lack It argues that insights provided
+by the review can enhance our understanding of those approaches to second
+language acquisition which assign an active role to the learner, and concludes
+witha consideration of practical impbcations for foreign and second language
+instruction
+
+516 METACOGNITIVE KNOWLEDGE AND LANGUAGE LEARNING
+
+NATURE OF METACOGNITIVE KNOWLEDGE
+Very simply, metacognitive knowledge refers to knowledge about learning A
+more specific understanding of the nature of this knowledge, however,
+requires a consideration of the following its defining characteristics, the
+categones which distinguish one kind of metacognitive knowledge from
+another, and the distinction between metacognitive knowledge and metacognitive strategies
+
+Defining characteristics of metacognitive knowledge
+Metacognitive knowledge is the relatively stable information human thinkers
+have about their own cognitive processes and those of others (Flavell and
+Wellman 1977), it is a specialized portion of their knowledge base {Flavell
+1979) acquired formally or informally, deliberately or incidentally This
+knowledge is statable—learners can become conscious of and articulate what
+they know Brown et al (1983) distinguish between stable knowledge already
+stored in long term memory and transient knowledge, I e insights that
+emerge during the learning process While Flavell and Wellman (1977)
+charactenze it as late developing, in fact, the cognitive literature has
+documented knowledge and beliefs held by learners of all ages from preschoolers (eg Kreutzer, Leonard, Flavell, as cited in Brown et al 1983) to
+elementary and secondary school children (e g Pans and Byrnes 1989, Chinn
+and Brewer 1993) and college and university students (e g Schommer 1990)
+In the FL/SL literature, metacognitive knowledge is also referred to as
+learner beliefs (Horwitz 1987), learners' naive psychology of learning
+(Wenden 1987), learner representations (Holec 1987, Gremmo and Riley
+1995), each of these terms pointing to other defining characteristics of this
+knowledge
+
+Downloaded from http://applij.oxfordjournals.org/ at Pennsylvania State University on March 4, 2016
+
+and O'Malley 1994, Chamot 1995, Rubin 1995, Gremmo and Riley 1995,
+Victon and Lockart 1995, Benson 1996, Riley 1996, Sinclair 1996) However,
+until now there has been no explicit, theoretically-based discussion of the
+function of metacognitive knowledge in language learning This article
+intends to address this lack First, it briefly clarifies what is intended by. the
+term metacognitive knowledge Next, it reviews selected theoretical and
+research literature on metacognition to determine how this knowledge comes
+into play in the self-direction of learning, namely planning and evaluating,
+task analysis (a component of planning), monitoring, and the transfer of
+learning (a component of both planning and monitoring^ This is followed by
+a discussion of how insights from the review can enhance our understanding
+of those approaches to second language acquisition which assign an active
+role to the learner The conclusion considers the practical implications of the
+review for foreign and second language instruction
+
+ANITA L WENDEN
+
+517
+
+Learner beliefs
+
+Learner representations
+The term learner representations comes from constructivist psychology and
+points to the fact that metacognitive knowledge is not an exact replica of
+experience but encoded in long-term memory in the manner' in which it is
+perceived by a learner It vanes depending on the type and extent of the
+analysis that was performed (Craik as cited in Cavanaugh and Perlmutter
+1982) and on whether it is generalized or specific (Pans and Byrnes 1989,
+Bialystok 1994)
+
+Naive psychology of learning
+A learner's naive psychology of learning is linked to another constfuctivist
+notion, l e of the child as theonst (Pans and Byrnes 1989/Karmiloff, Smith,
+and Inhelder 1974/75, Brown et al 1983) It acknowledges that learners
+generate their own hypotheses about factors that contnbute to learning and
+that these notions are not arbitrary Learners make some' attempt to validate
+them and the resulting insights are linked to one another in a logical fashion
+Together these terms point to the following charactenstics of metacognitive
+knowledge and beliefs
+(1) a part of a learner's store of acquired knowledge
+(2) relatively stable and statable
+(3) early developing
+(4) a system of related ideas
+(5) an abstract representation of a learner's expenence
+A final charactenstic distinguishes beliefs from metacognitive knowledge, i e
+their value-relatedness and idiosyncratic nature, suggesting that beliefs would
+be held more tenaciously than knowledge 5
+
+Downloaded from http://applij.oxfordjournals.org/ at Pennsylvania State University on March 4, 2016
+
+There is no clear consensus on the distinctions between knowledge and
+beliefs, although the choice of one term instead of the other is a tacit
+recognition that there is' a difference 3 Generally, knowledge is viewed as
+factual, objective information, acquired through formal learning (Alexander
+and Dochy 1995), and, probably, representative of the body of knowledge that
+constitutes a particular discipline of study On the other hand, beliefs are
+viewed as individual subjective understandings, idiosyncratic truths, which
+are often value related and characterized by a commitment not present in
+knowledge (Alexander and Dochy 1995) 4 Flavell (1987) suggests that beliefs
+about learning are a component of metacognitive knowledge, a view shared
+by Alexander and Dochy (1994)
+
+518 METACOGNITIVE KNOWLEDGE AND LANGUAGE LEARNING
+
+Categories for classifying metacognitive knowledge
+
+Downloaded from http://applij.oxfordjournals.org/ at Pennsylvania State University on March 4, 2016
+
+Metacogmtive knowledge has been classified according to whether it focuses
+on the learner, the learning task or the process of learning Flavell (1979,
+1981, 1981a) refers to these three categories as person, task and strategic
+knowledge, and though these distinctions are not strictly adhered to by all,
+the vanety of knowledge types referred to in the cognitive and FL/SL
+literature can usually be categorized as one or the other
+Person knowledge is general knowledge learners have acquired about human
+factors that facilitate or inhibit learning The cognitive and affective vanables
+hypothesized as influencing language acquisition in SLA research are
+examples of such factors, e g age, language aptitude, motivation
+(see
+Ellis 1986 and Brown 1987 for a review of this research, and Horwitz 1987,
+1988 and Victon 1995 for research which documents FL/SL learners' beliefs
+about several of these factors) In addition, person knowledge includes specific
+knowledge learners have acquired about how the above factors apply in their
+expenence The Japanese business man, referred to earlier, believed he did
+not have the personal ability necessary for language learning, the learning
+disabled child believed that he did not have a memory Learners may also
+have acquired (person) knowledge about their proficiency in a given area,
+based on assessments they have made or received about their skills Language
+learners, for example, will have some notion of how well they read, write,
+how much grammar they know
+Further, person knowledge includes
+what learners believe about their effectiveness as learners in general, I e selfefficacy beliefs about their ability to mobilize and manage the resources
+necessary to leam and to sustain the effort (see Cotterall 1995, Lloyd,
+Mikulecky and Huang 1997 for research on self-efficacy beliefs of language
+learners) Finally, person knowledge refers to beliefs about their ability to
+achieve specific learning goals, such as the knowledge and/or skills they need
+to write in a second language, I e achievement beliefs
+Task knowledge has three facets It refers to what learners know about the
+purpose of a task and how it will serve their language learning needs, e g to
+improve their writing skills, expand their vocabulary , develop fluency in oral
+communication It also includes knowledge that is the outcome of a
+classification process that determines the nature of a particular task— This
+may mean understanding-that learning to read is different from learning to
+write or being able to distinguish a creative thinking task from a problem
+solving task Finally, task knowledge includes information about a task's
+demands, l e how to learn in general, how to go about doing a particular task,
+and the knowledge and skills needed to do so (See Wenden 1986, Horwitz
+1987, 1988, Holec 1987, Benson 1990, Victon 1995, Cotterall 1995, Mon
+1997 for research on the task knowledge of FL/SL learners)
+Task knowledge should be distinguished from domain knowledge, which is
+utilized to determine the (task) knowledge that will guide the completion of a
+particular task Domain knowledge refers to what the learner knows about the
+
+ANITA L WENDEN
+
+519
+
+Metacognitive knowledge and metacognitive strategies
+As noted in Brown et al (1983), metacognitive knowledge and metacognitive
+strategies are two separate and distinct components of the broader notion of
+metacogmtion Therefore they should not be considered interchangeable or
+similar Metacognitive knowledge refers to information learners acquire about
+their learning, while metacognitive strategies are general skills through which
+learners manage, direct, regulate, guide their learning, i e planning,
+monitonng and evaluating 6 The deployment of these three strategies in
+learning is referred to as self-regulation in cognitive psychology and as selfdirection in adult education and in the literature on learner autonomy in FL/
+SL learning Because the literature that forms the basis for the analysis that
+follows is drawn from cognitive psychology, the term self-regulation will be
+used in this next section of the article 7
+
+Downloaded from http://applij.oxfordjournals.org/ at Pennsylvania State University on March 4, 2016
+
+subject matter of the learning, 1 e conceptual and factual knowledge It also
+includes knowledge about the manner in which this information is
+communicated, 1 e the structure of the discourse used to organize it For
+example, to do a legal analysis, learners must utilize knowledge of the law and
+of text type, 1 e of different kinds of cases (Lundeberg 1987) In the case of
+mathematics, knowledge of measurement, number concepts, and arithmetic
+problem solving schemata are examples of domain specific knowledge {Glaser
+1984) Knowledge of vocabulary and world/content background knowledge
+are examples of domain knowledge FL/SL learners need for fluent reading
+(Grabe 1991)
+Strategic knowledge refers to general knowledge about what strategies are,
+why they are useful, and specific knowledge about when and how to use
+them In fact, it may be logically viewed as a subset of task knowledge
+However, following Flavell (1979, 1981, 1981a), we include it as a separate
+classification because of the unique role it plays in the processing (rather than
+the planning) of learning There is now a respectable body of research which
+has documented the learning strategies of foreign and second language
+learners, l e what they do to help themselves leam (e g Rubin 1975, Naunan,
+Frohlich, Stem and Todesco 1978, Cohen 1990, Hosenfeld 1984, Pohtzer and
+McGroarty 1985, Abraham and Vann 1987, Chamot 1987, O'Malley and
+Chamot 1990, Oxford 1996) However, in some cases, l e the research that
+utilizes data collecting techniques, such as interviews and questionnaires,
+which lead learners to retrospect upon their learning, is, in fact, requiring
+them to draw upon their stored metacogmtive knowledge about learning
+strategies Thus, the resulting accounts-of strategies learners may actually use
+or think they use or should use- can also be viewed as evidence of their
+strategic knowledge
+
+520 METACOGNITIVE KNOWLEDGE AND LANGUAGE LEARNING
+
+METACOGNITIVE KNOWLEDGE AND LEARNING
+
+Planning and evaluating
+The metacognitive knowledge learners have acquired about themselves as
+learners (i e their person knowledge) has been shown to influence their
+choice of learning objectives and the cntena they use for evaluating learning
+outcomes In their research, Zimmerman and Bandura (1994) have
+considered the influence of beliefs learners hold about their ability to mobilize
+and direct resources for learning and to sustain this effort (I e self-efficacy
+beliefs) and to master a particular academic subject, e g history, or to acquire
+particular skills, e g computer programming or wnting (I e achievement
+
+Downloaded from http://applij.oxfordjournals.org/ at Pennsylvania State University on March 4, 2016
+
+According to Flavell (1979), metacognitive knowledge plays an important role
+in many cognitive activities related to language use, e g oral communication
+of information, oral persuasion, oral comprehension, reading comprehension,
+and writing, to language acquisition, and to vanous types of self-instruction It
+is activated deliberately when the nature of the learning task requires
+conscious thinking and accuracy, when the task is new, or when learning
+has not been correct or complete However, it may appear automatically,
+evoked by retrieval cues in the task situation, and finally, 'it may and probably
+does influence the course of the cognitive enterpnse without itself entenng
+into consciousness' (Flavell 1979 907-8)
+The literature reviewed notes that metacognitive knowledge charactenzes
+the approach of expert learners to learning (Baker and Brown 1984,
+Nickerson et al 1985, Wong 1986, Garner 1987), it enhances learning
+outcomes (Dickinson 1995, Zimmerman 1989, Zimmerman and Bahdura
+1994), facilitating recall (Flavell as cited in Nickerson et al 1985), the
+comprehension, of wntten texts (Brown et al 1986, Schommer 1990,
+Schommer et al 1992), the completion of new types of learning tasks
+(Vann and Abraham 1990), it improves the rate of progress in learning
+(Victori and Lockart 1995), and the quality and speed of learners' cognitive
+engagement (Pintnch et al 1993)
+Of special relevance, however, is the influence of metacognitive knowledge
+in the self-regulation of learning, l e in planning, momtonng and evaluating
+According to the literature, it is a prerequisite to self-regulation (e g Butler
+and Winne 1995, Baker and Brown 1984), helping learners to become 'active
+participants in their own performance rather than passive recipients of
+instruction
+' (Pans and Winograd 1990 18) and providing the knowledge
+base for effective planning, momtonng and evaluating (Perkins and Salomon
+1989) More specifically, the review has shown how metacognitive knowledge influences planning, evaluating and momtonng in the self:regulation of
+learning In addition,,it has brought to light the role of this knowledge in task
+analysis and learning transfer, two processes implicit in the planning and
+momtonng of learning that have, heretofore, been ignored
+
+ANITA L WENDEN 521
+
+SELF-REGULATORY
+EFFICACY FOR
+WRITING
+
+SELF-EFFICACY
+FOR ACADEMIC
+ACHIEVEMENT
+
+VERBAL
+APPITUDE
+
+GRADE
+GOALS
+
+FINAL
+GRADES
+
+SELF-EVALUATIVE
+STANDARDS
+
+Figure 1 A causal model of student self-regulation of writing achievement
+(Zimmerman and Bandura, 1994) Copyright (1994) by the American
+Educational Research Association
+
+Downloaded from http://applij.oxfordjournals.org/ at Pennsylvania State University on March 4, 2016
+
+beliefs) They hypothesize that the stronger the learners' self-efficacy beliefs,
+the more challenging their learning goals will be and the more intensely they
+will seek to overcome obstacles faced in the course of learning Their causal
+model of self-regulation in writing (Figure 1) explains how this hypothesis is
+reflected in the manner in which learners regulate their attempts to master
+academic writing, 1 e select learning goals and evaluation criteria
+As illustrated in Figure 1, learners who believe they can regulate their
+writing and maintain their efforts to do so (self-regulatory efficacy for writing,
+I e self-efficacy beliefs) will be inclined to believe they can learn to write (selfefficacy for academic achievement, l e achievement beliefs) and set stnngent
+evaluative criteria for themselves {self-evaluative standards) This, in turn,
+leads them to aim for high grades {grade goals) Learning outcomes (their final
+grades), according to the model, are directly related to these last three factors,
+I e their achievement beliefs, evaluation criteria, learning goals, and
+indirectly related to their beliefs about self-efficacy (see Groteluschen et al
+1990 for similar views, and Zimmerman and Bandura 1994 for the results of a
+study which supports the assumptions made by the model)
+While Zimmerman and Bandura (1994) focused on the level of achievement reflected in the learning goals of undergraduate students, Boekaerts
+(1992) makes explicit the manner in which metacognitive knowledge is
+brought to bear upon the kind of goals younger students set in response to a
+task
+According to her model of the affective learning process, when a classroom
+teacher assigns a task, the learners' perception of the task's demands triggers
+
+522 METACOGNITIVE KNOWLEDGE AND LANGUAGE LEARNING
+
+an appraisal process that is based on two categories of metacogmtive
+knowledge
+(1) what they know about themselves as'learners {person knowledge)—
+whether they possess the knowledge and skills necessary to do the task,
+whether they are competent as learners
+(2) their perception of the task's purpose (task knowledge)—whether it is
+compatible with their goals
+Downloaded from http://applij.oxfordjournals.org/ at Pennsylvania State University on March 4, 2016
+
+If learners determine that they have the skills and the competence to do the
+task and if they consider that the task's purpose will serve their learning goals,
+they will choose learning oriented goals, I e goals that will enable them to
+expand their knowledge or gain new skills On the other hand, if the appraisal
+is negative, learners may choose coping onented goals, I e they try to
+minimize the discomfort resulting from their lack of skill, or choose to avoid
+the task completely For example, assuming a teacher has asked learners to
+complete and hand in a set of questions based, on a chapter in their science
+text, learners whose task appraisal has been positive may choose to outline
+the reading upon which the questions are based, seeking not just to get the
+questions answered but to understand the material In contrast, learners who
+believe they have difficulty with science or who consider themselves poor
+readers may decide to ask their fnends for the answers
+The criteria by which learning outcomes are evaluated, Boekaerts (1992)
+notes, are influenced by a learner's goals Learning-onented goals are
+evaluated according to learning outcomes Learners who deeded to outline
+the reading will determine they have been successful if they understand the
+questions and can answer them However, the others, who approached the
+task differently, may be pleased because they receive a good grade or, simply,
+the teacher's approval for handing in the questions, in this case, the criteria
+for determining success being external (See Volet 1991 for similar findings
+based on her research on college students)
+The L2 learner strategy research has also begun to document the
+relationship between metacogmtive knowledge, specifically task knowledge,
+and planning and evaluating In his study Holec (1987) reports on the
+relationship between the change in learners' beliefs about language learning
+and the manner in which they planned their learning Thus, at the outset of a
+self-directed learning project, planning decisions were limited to the choice of
+proper materials, but as learners' understanding of the learning process and
+their role in it changed, their planning decisions expanded to the selection of
+learning activities and the setting of objectives Wenden's (1987a) study of L2
+learners' theories about language learning includes three case studies which
+illustrate how these beliefs affected the priorities the learners set, their choice
+of strategies and their criteria for evaluating their learning Learners who
+believed using the language was the key to successful learning emphasized the
+need to learn to speak, selected practice strategies, and evaluated positively
+situations which provided an opportunity for oral communication In his case
+
+ANITA L WENDEN 523
+
+study of how an L2 student coped with the listening and note-taking demands
+of regular college classes, Benson (1990) found that the student's approach to
+academic listening and note taking (e g trying to note down what he felt the
+teacher wanted) was influenced by his conception of learning as a
+reproductive process Finally, based on sociocultural theory, Gillette's study
+(1994) concludes that learners' views on the value of second language study
+shaped their goals and, indirectly, determined their approach—the degree of
+effort made and the kinds of learning activities selected
+
+An essential component of efficient planning, task analysis refers to three sets
+of considerations learners engage in at the outset of learning to understand an
+assigned or self-set task and to determine how to approach it That is, they must
+determine what they are expected to leam from the task and compare this with
+their learning needs and goals, l e consider task purpose (Breen 1987) They
+must also classify the task—identify the nature of the problem it poses and
+consider whether it is similar to one they've already done (Pans and Bymes
+1989, Resnick 1989) Finally, they must assess a task's demands—consider how
+to best approach the task and the knowledge and skills they will need to do so
+(Glaser 1984, Groteleschuen et al 1990, de Jong and Simons 1992) 8
+To illustrate, let us consider the task analysis conducted by a hypothetical
+language learner of English who is taking a course in wnting for foreign
+students
+The teacher asks the class to read an article on global warming and to
+summarize it Since this is a wnting course, the learner wonders why
+he should read this article and how wnting a summary will enable him
+to write the argumentative essay that is necessary to pass the course
+Still, he continues with the task He notes that this is an article on global
+warming and realizes this is a topic with which he is not familiar
+Further noting that he is expected to summarize it, he recalls that texts
+dealing with social problems often refer to the consequences of these
+problems and assumes these consequences would represent the key
+ideas he is asked to summarize He, therefore, decides to read to identify
+the effects of global warming At the same time, concluding that an
+article on global warming must be a scientific article and that it will,
+therefore, contain unfamiliar technical terms, he also decides to make a
+list of these terms as he encounters them Having made his plan, he
+feels that while the task may be tedious (he does not like scientific
+articles), it should not be too difficult
+Our learner begins by considering the task's purpose, questioning its
+relevance It may be assumed that the task does not conform to his
+beliefs of how one should learn to write
+His discourse knowledge of expository texts, evoked by the term 'global
+warming' in the task statement, is the basis for his classification of the
+reading as a (1) scientific text (2) about social problems.
+
+Downloaded from http://applij.oxfordjournals.org/ at Pennsylvania State University on March 4, 2016
+
+Task analysis
+
+524 METACOGNTTIVE KNOWLEDGE AND LANGUAGE LEARNING
+
+His discourse knowledge is also used to assess the task's demands
+The task requirement, that he write a summary, evokes his knowledge
+of summaries, 1 e they are based on the key ideas of a reading. His
+knowledge about expository texts dealing with soaal problems leads him to
+
+Finally, his understanding of the task gained by this analysis leads him to
+
+conclude that the task will not be difficult.
+The illustration suggests that all three kinds of metacognitive knowledge
+can come into play at this critical juncture in learning Task knowledge is
+what prompts learners to inmate a task analysis to realize that it needs to be
+done It also dictates what must be done to complete the task, 1 e consider the
+task's purpose, its demands and how to classify it Person knowledge enables
+learners to recognize what they know and what they don't know (the learner
+was not familiar with the topic of the reading nor with technical terms that
+might be used to talk about global warming), what they like and what they
+don't like {he found scientific articles tedious) and strategic knowledge guides
+them in selecting strategies to deal with anticipated difficulties (he chose list
+making to deal with technical terms)
+The illustration further suggests that domain knowledge is also necessary to
+completing a task analysis As noted earlier, domain knowledge refers to what
+the learner knows about the subject matter of the learning and the nature of
+the discourse through which this information is communicated In fact, our
+hypothetical learner recognized that he knew very little about global
+warming, the subject matter of the article, but he does use his discourse
+knowledge to determine the task's demands His knowledge of summaries and
+of expository texts about soaal problems leads him to conclude that he is
+expected to find main ideas and that these should be the effects of global
+warming His knowledge of scientific articles further leads him to anticipate
+the need to understand technical terms Thus, both metacognitive and
+domain knowledge are essential for learners to construct an accurate
+understanding of a particular task and it is this newly acquired (task)
+knowledge, which, then, guides and informs the manner in which they plan
+their learning, i e make decisions about how to proceed (See De Groot, Chi,
+Mayer, Linn, cited in Bransford and Vye 1989, Voss et at 1983, Glaser 1984,
+Schoenfeld and Herman 1982, Rohwer and Thomas 1989 on the importance
+of domain knowledge, and Bransford et al 1981, Nickerson et al 1985, Brown
+et al 1983, Perkins 1986 on the importance of metacognitive knowledge )
+
+Downloaded from http://applij.oxfordjournals.org/ at Pennsylvania State University on March 4, 2016
+
+expect that the article will describe the effects of these problems and
+so to conclude that these must be the key ideas that have to be found
+in order to write the summary His knowledge about scientific articles
+leads him to anticipate the use of technical terms and the need to
+understand them.
+The learner's person knowledge is the basis for his realization that he
+is not familiar with this topic and that he does not like scientific
+articles. He uses his knowledge of strategies to choose list making as a
+means of dealing with unfamiliar technical terms he expects to find.
+
+ANITA L WENDEN
+
+525
+
+Monitonng
+Bnefly defined, monitoring consists of keeping track of how the learning
+process is going and taking appropriate measures to deal with difficulties that
+interfere with the process (Flavell 1981 272) Implicit in this description is an
+assessment of the cause of perceived difficulties Metacognitive knowledge is
+noted to be necessary to the monitonng process {Markman 1981) To
+illustrate, let us further consider the learner who has been asked to read
+the article on global warming
+
+The illustration points to four ways, described in the literature, in which
+metacognitive knowledge plays a role in the monitonng process First of all, it
+is what constitutes the internal feedback, I e the state of awareness, which
+reveals how well learning is proceeding or can be expected to proceed (Butler
+and Winne 1995, Corno and Kanfer 1993, Howard-Rose and Winne and
+Zimmerman as cited in Butler and Winne 1995, Flavell 1979, 1981a) In the
+illustration, the learner becomes aware of the fact that he cannot find any
+effects of global warming in the reading, that the reading is harder than
+anticipated, and that list making is not useful 9 Secondly, metacognitive
+knowledge may be the basis.for this internal assessment of comprehension
+(Brown et al 1983, Baker 1985, Weinstein and Rogers 1985) and/or of
+progress towards a goal (Pans and Myers 1981, Wong 1986, Brown et al 1983,
+Carver and Scheier 1990, Kitchner 1983) Thus, implicit in the hypothetical
+learner's recognition that he cannot discover the effects of global warming is
+his earlier assessment of the task's demands which had led him to conclude
+that this was the information he must find to wnte the summary Similarly, it
+is his earlier assessment about his ability to do the task <i e that it would be
+easy) which leads to the awareness that it is harder than he had anticipated
+Thirdly, metacognitive knowledge may suggest the reason for the problems
+revealed through this state of awareness As illustrated above, the learner
+remembers he has never been good at science Finally, learners' acquired
+metacognitive knowledge and beliefs can also be drawn upon to guide their
+decision making during this phase of the monitonng process They must
+decide how to respond to this internal feedback whether or not to maintain,
+revise, or reject earlier choices, whether to make new ones (e g Wellman
+1985, Butler and Winne 1995, Corno and Kanfer 1993, Kitchener 1983,
+Flavell 1981a, Chinn and Brewer 1993, Pans and Myers 1981, Pans and
+
+Downloaded from http://applij.oxfordjournals.org/ at Pennsylvania State University on March 4, 2016
+
+Halfway through the task, he realizes that he has not really been able
+to find any effects of global warming in the reading, the main ideas he
+needs to wnte a summary Moreover, he feels the article is harder than
+he had anticipated He remembers that he was never good at science
+and concludes this must be the reason Moreover, he finds list making
+is not very useful and so discontinues the use of this strategy However,
+motivated by a general belief that one must persist even in the face of
+difficulty, he chooses to read each paragraph very slowly and to use
+contextual cues to infer the meaning of unknown terms
+
+526 METACOGNITIVE KNOWLEDGE AND LANGUAGE LEARNING
+
+Transfer of learning
+Transfer of learning refers to the application of acquired knowledge and skills
+used in a previous task to the completion of a present task When a learner
+who has learned how to guess from context while reading applies the same
+strategy to the comprehension of oral communication, learning is being
+transferred Learning transfer can take place at the outset of learning, as
+learners plan how best to complete a task, it can also occur while they
+monitor the implementation of their plan In learning transfer, metacognitive
+knowledge facilitates the appropriate choice of previously learned strategies to
+achieve learning goals and/or to deal with problems encountered during the
+learning The literature presents two views on the kind of metacognitive
+knowledge that is necessary to this process the motivational view and the
+methodological view
+Motivational view According to this view, person and strategic knowledge
+are necessary for transfer It is assumed that
+(1) Learners who approach a particular learning task will have acquired an
+understanding of a range of strategies that may be used to do it—task
+specific strategy knowledge
+(2) They understand that effort is required to apply strategies and that wellchosen strategies may improve performance—general strategy knowledge
+(3) Finally, they hold beliefs about their ability to control their learning, l e
+that success is the result of their efforts and not of an uncontrollable
+factor—person knowledge about self-efficacy
+According to Groteluschen et al (1990), the strategies learners choose to do
+a task will be based on their specific strategy knowledge If a chosen strategy is
+
+Downloaded from http://applij.oxfordjournals.org/ at Pennsylvania State University on March 4, 2016
+
+Byrnes 1989, Schommer 1990) The hypothetical learner decided to use a new
+strategy, drawing upon his strategic knowledge, and to persist even though it
+was hard, drawing upon his self-efficacy beliefs (I e person knowledge)
+Monitoring can also lead learners to refine and expand their metacognitive
+knowledge (Wellman 1985, Zimmerman 1989, Butler and Winne 1995, Pans
+and Winograd 1990) As they monitor, they are prompted to examine the
+relationships among learning goals, means of achieving them, task outcomes
+and to accommodate their knowledge to what has been observed (Flavell
+1979, 1981) Thus, realizing that list making (the means) which he had
+selected to facilitate understanding of technical terms (learning goal) was not
+helping him to understand (learning outcome), the hypothetical learner
+discontinued its use having learned that it was not an effective strategy
+(revision of strategic knowledge) Thus, in the case of monitoring, the
+relationship with metacognitive knowledge is reciprocal On the one hand, it
+is the basis for monitoring and, on the other, the knowledge generated by
+monitoring can be used to revise the learners' existing knowledge base
+
+ANITA L WENDEN 527
+
+Downloaded from http://applij.oxfordjournals.org/ at Pennsylvania State University on March 4, 2016
+
+effective and learners feel it has unproved the quality of their learning, their
+specific strategy knowledge is strengthened Additionally, the realization that
+a particular strategy can be effective will strengthen their belief about the
+effectiveness of strategies, 1 e general strategy knowledge, which, in turn, will
+strengthen their self-efficacy beliefs The learner will be more convinced that
+they can exercise control over their learning, thus reciprocally reinforcing
+their general strategy knowledge These reinforced beliefs about strategy use
+and self-efficacy, it is implied, will, then, make it more likely that learners will
+use strategies and, therefore, choose the successful strategy in another context
+when appropriate
+Returning once again to the hypothetical learner, let us assume his decision
+to try to infer the meaning of unknown terms rather than make lists enabled
+him to comprehend a fair number of words He may, then, conclude that
+inferencing is a useful strategy and further realize that strategies can help him
+understand better as well as give him some control over his learning
+Therefore, the following week, when, once again, he is asked to read a text
+with many unfamiliar terms, he selects inferencing as the strategy he will use
+to comprehend these terms In other words, it is assumed that the effective
+use of a strategy can expand learners' strategic knowledge and/or re-enforce
+what they already know, thus motivating them to use strategies and,
+therefore, to transfer effective strategies to other contexts as needed
+(Groteluschen et al 1990, see Borkowski et al 1992 for similar views)
+Methodological view On the other hand, according to the methodological
+view, strategic and task knowledge are necessary for the transfer of learned
+strategies and strategy instruction is the means of providing it To that end, it
+is recommended that strategy instruction (1) be informed {Brown and
+Palmscar 1982, Brown et al 1983, Baker and Brown 1984), (2) provide
+conditional knowledge (Pans, Newman, and McVey as cited in Pans and
+Byrnes 1989) and (3) promote mindfulness (Wong 1991) Informed training
+provides knowledge about the purpose of the strategy—what the expected
+outcome of using it will be Training provides conditional knowledge if it tells
+learners when a strategy can be used so that it is likely that they will use it not
+only in the training context but in a vanety of other appropnate settings
+Finally, mindfulness is promoted when learners are taught to determine
+whether there are similarities between previous learning activities {or tasks)
+and the present task The task knowledge yielded by this comparison will,
+then, be the basis for determining whether the strategy applicable to a former
+task can be transferred in the present case (see Carrell 1989, Wenden 1991,
+Chamot and O'Malley 1993, Ellis and Sinclair 1989 for similar views on
+strategy instruction in FL/SL) To restate, when strategy instruction meets
+these three cntena, it is expected that learners will have acquired the strategic
+and task knowledge that will lead to the transfer of a learned strategy to a
+similar context
+
+528 METACOGNITIVE KNOWLEDGE AND LANGUAGE LEARNING
+
+SIGNIFICANCE OF THE FINDINGS
+
+Learner strategy resc^ch and instruction
+By descnbing how metacogmtive knowledge functions in the self-regulation
+of learning, the review provides insights on the use of cognitive strategies in
+language learning At the same time, it points to an area of research needed
+for a better understanding of this aspect of self-regulation That is, most of the
+strategy research, thus far, has focused on documenting the learning strategies
+of successful learners, to a lesser degree, it has also sought to identify which
+
+Downloaded from http://applij.oxfordjournals.org/ at Pennsylvania State University on March 4, 2016
+
+This article has reported on a review of selected theoretical writings and
+research reports which aimed to determine the function of metacogmtive
+knowledge in learning The review has shown that metacognitive knowledge
+is a prerequisite for the self-regulation of learning it informs planning
+decisions taken at the outset of learning and the monitoring processes that
+regulate the completion of a learning task, 1 e self-observation, assessment of
+problems and progress, and decisions to remediate, it also provides the criteria
+for evaluation made once a learning task is completed In addition, the review
+has shown that in some aspects of planning, 1 e the procedures that constitute
+task analysis, metacogmtive knowledge is insufficient Domain knowledge
+plays an essential and complementary role Finally, the review has pointed to
+the distinct functions of metacogmtive knowledge On the one hand, it is
+motivational—energizing the processes of self-regulation—while on the other,
+it is cognitively oriented—shaping and guiding these same processes Thus,
+the findings support the practice-based intuition of FL/SL language
+researchers and teachers who implicitly recognize the importance of
+knowledge about learning when they advocate that it be included in tasks
+that aim to help language learners learn how to learn
+In addition , the insights about the function of metacogmtive knowledge in
+learning provided by the review should enhance our understanding of three
+theoretically distinct views of second language acquisition and learning, each
+of which give the learner an active role in the learning process, namely
+learner strategies research and instruction, self-directed language learning,
+and sociocultural theory Learner strategies research and instruction is based
+on cognitive theory (cf O'Malley and Chamot 1990), while the theory
+underlying self-directed language learning is drawn from insights proposed in
+theoretical writings in adult learning and development {cf Holec 1981,
+Wenden 1987) Finally, Vygotskian perspectives of cognitive functioning and
+development provide the foundation for sociocultural theory {cf Donato and
+McCormick 1994, Lantolf and Appel 1994) Each of these approaches focuses
+on regulation in language learning though their descriptions of its origin,
+processes and/or scope vary In addition, in their writings, the role of
+knowledge is either implied or bnefly referred to, but it is not exphatly linked
+to self-regulation
+
+ANITA L WENDEN 529
+
+Self-directed language learning
+Theoretical wntings about self-instruction (eg Dickinson 1987). and selfdirection in language learning {eg Holec 1981) have identified planning,
+monitonng and evaluating as the skills that constitute self-directed language
+learning, and the literature in this field has concentrated on better understanding each skill It has specified the range of decisions that define planning
+e g clarifying needs, goal setting, prioritizing goals, setting objectives, defining
+content and progression
+(eg Holec 1981, Carver 1984, Holec 1985a,
+Huttunen 1986, Dickinson 1987, Oxford 1990, Cotterall 1995, MuellerVerweyen 1995, Rubin 1995, Wenden 1991a, Kelly 1996, Thomson 1996)
+Initial attempts have been made to define the procedures and scope of
+monitonng (Rubin 1987, Oxford 1990, Enksson 1993, Chamot and O'Malley
+1994, Wenden 1991, Little 1991, Thomson 1996), and the processes and focus
+of evaluation have been delineated (eg Wenden 1991, Holec 1985a,
+Huttunen 1986, Little 1991, O'Malley and Chamot 1990, Westhoff 1993,
+Thomson 1996) However, as noted at the beginning of this article, there has
+been no attempt to delineate the function of metacognitive knowledge in
+planning, monitonng, and evaluating This review has provided for this lack
+illustrating and explaining how metacognitive knowledge comes into play in
+
+Downloaded from http://applij.oxfordjournals.org/ at Pennsylvania State University on March 4, 2016
+
+cognitive strategies may be used in the completion of specific learning tasks,
+e g finding the main idea, gap filling, and more broadly, in the execution of
+the different language skills, primarily reading and listening (e g Chamot
+1987, O'Malley and Chamot 1990, Oxford 1990, Cohen 1990) However, as
+reflected by the very few studies cited in this survey, learner strategy research
+which has documented the link between learners' acquired metacognitive
+knowledge and the use of strategies is scant To restate, then, the survey
+expands our theoretical understanding of strategy use and points to an area
+that should be included as part of the learner strategy research agenda
+Furthermore, the discussion of the role of metacognitive knowledge in the
+transfer of learning confirms and refines insights that have shaped FL/SL
+cognitive strategy instruction In contrast to the research on learner
+strategies, the literature. that describes procedures for cognitive strategy
+instruction does recognize the importance of strategic knowledge, advising
+teachers to provide learners with knowledge about the utility of strategies
+and the conditions appropnate for their use (e g O'Malley and Chamot 1990,
+Hosenfeld 1981, Oxford 1990) The discussion of both the motivational and
+methodological views on the transfer of learning, which demonstrates that it
+is the possession of strategic knowledge which leads learners to use particular
+strategies, confirms the appropriateness of this methodological approach At
+the same time, it (the discussion) provides insights that should refine it, l e
+about the need for person knowledge to motivate learners to continue to use
+strategies and the key role of task knowledge in the transfer of learned
+strategies
+
+530 METACOGNTTIVE KNOWLEDGE AND LANGUAGE LEARNING
+
+the execution of these three skills for self-directed learning, including task
+analysis, a planning skill that had, heretofore, been ignored This is
+information that can enhance both the research and instruction in this
+area, signaling the need {1) to investigate the role of metacognitive knowledge
+in the use of self-directed learning skills and (2) to incorporate metacognitive
+knowledge in tasks that aim to help learners self-direct their learning
+
+Based on the work of Vygotsky, sociocultural theory views the social setting as
+the primary and determining factor in the development of higher order
+mental functioning (Lantolf and Appel 1994 1-32) Activity theory, which
+expands upon some of the themes introduced by Vygotsky, aims to clanfy
+what the individual or group is doing in a particular setting, and activity, one
+of the three concepts that explains the theory, is defined 'as a socially
+determined setting, based on a set of assumptions about roles, goals, and
+means to be used by a participant in that setting' (Lantolf and Appel op at
+16) In other words, according to the definition, action which flows from a
+setting must be understood in terms of the goals, role and means that define it
+(i e the setting) However, it is the socially acquired assumptions, I e beliefs
+or knowledge, built into the setting and which may emerge through the
+interaction that takes place in it, which shape these components of a setting
+Thus, the definition appears to recognize the role of beliefs/knowledge in
+motivating human action, including, one may assume, the self-regulation of
+learning However, it is the setting or activity, including the effect of its
+interactional dimension, which some researchers choose to emphasize as the
+factor that shapes regulatory activity (cf, for example, Gillette 1994,
+Coughlan and Duff 1994) In these studies the knowledge/beliefs embedded
+in the setting or which emerge through the interaction that takes place in it is
+overlooked as a source of insight on learner's motives, goals and operations
+This review, on the role of metacognitive knowledge in the self-regulation of
+learning, highlights this variable that appears to be ignored and undeveloped
+in sociocultural theory
+
+CONCLUSION
+The preceding section has indicated, very generally, how insights yielded by
+the review can be used by those FL/SL teachers who make the provision of
+learner training an integral part of their language instruction The conclusion,
+therefore, will outline two general suggestions to illustrate the practical
+implications of the survey for extending the role of all FL/SL teachers in this
+manner
+(I) The review suggests that teachers should try to gain an undemanding of their
+learners' beliefs and acquired knowledge about language learning In other words,
+
+just as they will usually diagnose their students' level of linguistic proficiency
+
+Downloaded from http://applij.oxfordjournals.org/ at Pennsylvania State University on March 4, 2016
+
+Sociocultural theory
+
+ANITA L WENDEN 531
+
+(1) ehcitatwn of learners' metacogmtive knowledge and beliefs
+(2) articulation of what has come to awareness
+(3) confrontation with alternative views
+(4) reflection on the appropriateness of revising, expanding one's knowledge
+Thus, such tasks and materials should provide learners with an opportunity
+to acquire new concepts about language learning They should be encouraged
+to use these 'new' ideas to seek insights into how they learn and into the
+reasons for unsuccessful learning outcomes They can also^be shown how
+some of these ideas can be applied to the development of solutions to learning
+problems Then, as their understanding of their language learning process is
+broadened, they can begin to use these new insights to expenment with
+different approaches to learning without guidance, I e autonomously—
+drawing upon solutions and knowledge that have been validated and looking
+critically at or even discarding what has not What will be significant, then, is
+that it is the learners who will be making the final decisions regarding how to
+learn more efficiently and how best to improve their learning outcomes "
+(Revised version received February 1998)
+
+Downloaded from http://applij.oxfordjournals.org/ at Pennsylvania State University on March 4, 2016
+
+at the outset of a language course, they should also assess their knowledge
+and beliefs about language learning Through the use of surveys, oral
+interviews, and focus groups, they can develop a profile of the metacognmve
+knowledge of their students Depending on the questions that have been
+asked, they may determine how learners perceive the course content, e g
+writing, reading, grammar, tasks that are typically assigned their role in
+learning, or why some learners are actively and independently involved in
+their learning while others do not appear to take any initiative at all In
+addition, such information may be gathered dunng the course of learning, as
+needed Learners' views on problematic tasks or irremediable language
+problems can be sought to seek insight on specific difficulties experienced
+by a class as a group or by individual learners 10
+(2) Teachers should also aim to help language learners develop a more reflective and
+self-directed approach to learning their new language For the greater part,
+language instructors will view their goal as the provision of instruction that
+facilitates the development of linguistic autonomy However, this research
+suggests that learners also need guidance in improving and expanding their
+knowledge about learning so that they may also become more autonomous in
+their approach to the learning of their new language The following four
+procedures that define awareness raising activities for (metacogmtive)
+knowledge acquisition may be used as a guide in devising tasks and materials
+for this purpose (cf Wenden 1997 for a more detailed description of each
+step), l e
+
+532 METACOGNITIVE KNOWLEDGE AND LANGUAGE LEARNING
+
+NOTES
+a discussion of this perspective is not
+included in this survey because it is predicated on a distinct metaphorical understanding of mental activity and emphasizes
+the role of external/social factors in the
+development and exercise of self-regulation, in contrast to the internal ones, such
+as metacogmtive knowledge At the same
+time, a few studies based on this perspective
+were included in the review as their data
+and/or conclusions appeared to be relevant
+to the topic under discussion (i e Gillette
+1994 and Platt and Brooks 1994)
+8 Task analysis appears to be similar to what
+is referred to as orientation by Vygotsky
+(see Appel and Lantolf 1994 443 for a
+descnption of what this latter notion entails
+and situation definition by Wertsch, cited in
+Platt and Brooks 1994 505)
+9 See Platt and Brooks (1994 506-7), a study
+based on sociocultural theory, which
+includes learner narratives to show how
+speech is used to regulate learning In fact,
+some of these accounts can also serve to
+illustrate how metacogmtive knowledge, in
+this instance as awareness of problems that
+impede progress, can emerge as learners
+monitor the completion of a language
+learning task, cf 8—awareness of not
+being clear about the task purpose, 9—of
+frustration, and 10—of not understanding
+what has been said
+10 See Wenden 1991 and Oxford 1990 for
+different approaches to collecting data on
+students' learning processes and Wenden
+1991 for a guide to analyzing and interpreting the data
+11 For specific examples of existing
+approaches to the development of tasks
+and materials that go beyond simple awareness raising to help learners reflect upon
+and expand their metacogmtive knowledge,
+see, for example, Ellis and Sinclair 1989
+Wenden 1991, Rubin and Thompson 1994,
+Holec 1994, Donato and McCormick 1994,
+Victon and Lockart 1995, Dickinson 1997,
+Sturbndge 1997
+
+Downloaded from http://applij.oxfordjournals.org/ at Pennsylvania State University on March 4, 2016
+
+1 This is a revised version of a longer paper
+that was the basis for a plenary presentation, Learner Representations in Language
+Learning, given at the. conference Autonomy 2000 The Development of Learning
+Independence in Language Learning, sponsored by the King Mongut Institute of
+Technology Thonbun and the British Council, Bangkok, Thailand 1996 The original,
+- much longer version, appears in the conference proceedings
+2 The first statement is from Brown et al as
+cited in Pans and Winograd (1990), the
+second and third are from Wenden
+(1987a)
+3 See Alexander and Dochy (1994) for a
+review of the literature on and discussion
+of these distinctions
+4 This definition is based on Alexander and
+Dochy's (1995) study of how adults distinguish between knowledge and beliefs They
+surveyed 120 adults—undergraduate .and
+graduate students in the United States and
+Europe (primarily the Netherlands) and
+experts in the area of knowledge and
+beliefs
+5 Since beliefs are understood to be a component of metacogmtive knowledge, the
+latter term is sometimes used to refer both
+to knowledge and beliefs in the discussion
+that follows
+6 The self-regulatory skills listed in the
+cognitive literature are quite varied, but in
+this article they will be referred to as
+planning, monitoring and evaluating,
+based on Brown et al (1983), whose
+seminal writings served to distinguish
+between knowledge about learning (metacognitive knowledge) and the regulation of
+learning (metacogmtive strategies) In addition it is these three strategies that have
+been adopted for language learning in
+O'Malley and Chamot's (1990) taxonomy
+of language learning strategies
+7 It should be noted that self-regulation is
+also key to the view of language learning
+proposed by sociocultural theory However
+
+ANITA L WENDEN
+
+533
+
+REFERENCES
+Environment Hillsdale, NJ Lawrence Erlbaum
+Bransford, J D and N j ' Vye 1989 A
+perspective on cognitive research and its
+implications for instruction' in L B Resnick
+and L E Klopfer (eds ) Towards the Thinking
+Curriculum Current Cognitive Research Association for Supervision and ' Curriculum
+Development
+Breen, M P 1987 'Learner contnbutions to
+task design' in C N Candhn and D Murphy
+(eds ) Language Learning Tasks Lancaster
+Practical Papers in English Language Education
+London, UK Prentice Hall International
+Brown, A and A S Palmscar 1982 'Inducing strategic learning from texts by means
+of informed, self-control training' in B
+Wong (issue editor) Metacogmtion and Learning Disabilities Topics in Learning and Learning
+Disabilities 2 1-17
+Brown A , J D Bransford, R FerraraandJ C
+Campione 1983 'Learning, remembering
+and understanding' in J H Flavell and E
+M Markman (eds ) Carmichael s Manual of
+Child Psychology Volume 1 New York Wiley
+Brown, A , B Armbruster and L Baker 1986
+'The role of meta cognition in reading and
+studying' in J Orasanu (ed ) Reading Comprehension From Research to Practice Hillsdale,
+NJ Lawrence Erlbaum Associates
+Brown, H D 1987 Principles of Language
+Learning and Teaching Englewood Cliffs, NJ
+Prentice Hall
+Butler, D L and P H Winne 1995 'Feedback
+and self-regulated learning A theoretical
+synthesis ' Review of Educational Research 65
+245-82
+Carrell, P L 1989 'Metacognitive awareness
+and second language reading ' Modern Language Journal 73 122-34
+Carver, C S and M F Scheier 1990 'Origins
+and functions of positive and negative affect
+A control process view ' Psychological Review
+97 19-35
+Carver, D 1984 Plans, learner strategies, and
+self-direction in language learning System
+12 123-31
+Casanave, C P 1988 Comprehension monitoring in ESL reading A neglected essential ' TESOL Quarterly 22 283-302
+
+Downloaded from http://applij.oxfordjournals.org/ at Pennsylvania State University on March 4, 2016
+
+Abraham, R and R Vann 1987 'Strategies of
+two language learners A case study' in A
+Wenden and J Rubin {eds ) Learner Strategies in Language Learning London, UK
+Prentice-Hall International
+Alexander, P A and F Dochy 1994 'Adults
+views about knowing and believing' in R
+Gamer and P A Alexander (eds ) Beliefs
+about Test and Instruction with Text Hillsdale,
+NJ Lawrence Erlbaum Associates
+Alexander, P A and F Dochy 1995 'Conceptions of knowledge and beliefs A comparison across varying cultural
+and
+educational communities ' American Educational Research Journal 32 413-42
+Appel, G and J Lantolf 1994 'Speaking as
+mediation A study of LI and L2 text recall
+tasks ' The Modern Language Journal 78 4 3 7 52
+Baker, L and A Brown 1984 'Metacognitive
+skills and reading in P D Pearson (ed )
+Handbook of Reading Research New York
+Longman
+Benson, P 1996 'Concepts of autonomy in
+language learning in R Pemberton, E Li,
+W Or and H Pierson (eds ) Taking Control
+Autonomy in Language Learning Hong Kong
+University Press
+Benson, M J 1990 'The academic listening
+task A case study ' TESOL Quarterly 23 4 2 1 46
+Bialystok, E 1994 'Representation and ways
+of knowing Three issues in second language
+acquisition' in R C Ellis (ed ) Implicit and
+Explicit Learning of Languages New York
+Academic Press
+Boekaerts, M 1992 'The adaptable learning
+process Initiating and maintaining behavioral change ' Applied Psychology 41 377-96
+Borkowski, J G , J Day, D Saenz, D
+Dietmeyer, T M Estrada and A Groteluschen 1992 'Expanding the boundaries of
+cognitive interventions in B Wong (ed )
+Contemporary Intervention Research in Learning
+Disabilities An International Perspective New
+York Springer-Verlag
+Bransford, J D , B S Stein, T S Shelton, and
+R A Owings 1981 'Cognition and the
+importance of learning to learn' in J H
+Harvey (ed ) Cognition Social Behavior and the
+
+534 METACOGNTTIVE KNOWLEDGE AND LANGUAGE LEARNING
+
+ities An International Perspective New York
+Spnnger-Verlag
+Dickinson, L 1987. Self-Instruction in Language
+Learning Cambridge Cambridge University
+Press
+Dickinson, L 1995 'Autonomy and motivation A literature review' in L Dickinson and
+A Wenden (eds) System An International
+Journal of Educational Technology and Applied
+Linguistics Special Issue on Learner Autonomy
+23 165-74
+Dickinson, L 1997 'The G O A L procedure
+for learner training' in M Mueller-Verweyen (ed) Neues Lernen Selfbstgesteuert
+Autonom Goethe Institute, Munich 93-102
+Donato, R and D McCormick 1994 'A
+sociocultural perspective on language learning strategies The role of mediation The
+Modern Language Journal 78 453-64
+Ellis, R 1986 Understanding Second Language
+Acquisition New York Oxford University
+Press
+Ellis, G and B Sinclair 1989 Learning to
+Learn English A Course in Learner Training
+London, UK Cambridge University Press
+Eriksson, R 1993 Teaching Language Learning
+Inservice Training for Communicative Teaching
+and Self-directed Learning in English as a
+Foreign Language Goteborg Studies in Educational Sciences 92 Acta Universitans Gothoburgensis. Box 5096, S-402 22 Goteborg,
+Sweden
+Flavell, J H and H M Wellmann 1977
+'Metamemory' in R V Kail, Jr and J W
+Hagen (eds ) Perspectives on the Development of
+Memory and Cognition Hillsdale NJ Lawrence Erlbaum Associates
+Flavell, J H 1979 'Metacognition and cognitive monitoring A new area of cognitive
+developmental inquiry ' American Psychologist
+34 906-11
+Flavell, J H 1981 'Cognitive monitoring' in
+W P Dickson (ed ) Children s Oral Communication Skills New York Academic Press
+Flavell, J H 1981a 'Monitoring social cognitive enterprises Something else that may
+develop in the area of social cognition' in J
+H Flavell and L Ross (eds) Social Cognitive
+Development Frontiers and Possible Futures
+New York Cambridge University Press
+Flavell, J H 1987 'Speculation about the
+nature and development of metacognmon
+, in F E Weinert and R H Kluwe (eds )
+
+Downloaded from http://applij.oxfordjournals.org/ at Pennsylvania State University on March 4, 2016
+
+Cavanaugh, J C and M Perlmutter 1982
+'Melamemory A critical examination ' Child
+Development 53 11-28
+Chamot, A 1987 'The learning strategies of
+ESL students' m A Wenden and J Rubin
+<eds) Learner Strategies in Language Learning
+London Prentice-Hall International
+Chamot, A and J M O'Malley 1993
+'Student responses to learning strategy
+instruction in the foreign language classroom ' Foreign Language Annals 26 308-21
+Chamot, A and J M O'Malley 1994
+'Language learner and learning strategies'
+in N C ( Ellis (ed ) Implicit and Explicit
+Learning of Languages London Academic
+Press
+Chamot, A 1995 'Learning strategies and
+listening comprehension' in D Mendelsohn
+andJ Rubin (eds ) A Guide for the Teaching of
+Second Language Listening San Diego, CA
+Dominie Press
+Chinn, C A and W F Brewer 1993 'The
+role of anomalous data in knowledge acquisition A theoretical framework and implications for science instruction' Review of
+Educational Research 63 1-50
+Cohen, A 1990 Language Learning Insights for
+Learners, Teachers and Researchers New York
+Newbury House
+Corno, L and R Kanfer 1993 'The role of
+volition in learning and performance'
+Review of Research in Education 19 301-41
+Cotterall, S 1993 Reading strategy training in
+second language contexts Some caveats'
+Australian Review of Applied Linguistics 16
+71-82
+Cotterall, S 1995 'Readiness for autonomy
+Investigating learner beliefs' in L Dickinson
+and A Wenden (eds ) System An International Journal of Educational Technology and
+Applied Linguistics Special Issue on Learner
+Autonomy 23 195-206
+Coughlan, P and P A Duff 1994 'Same task,
+different activities Analysis of a SLA task
+from an activity theory perspective' in J P
+Lantolf and G Appel {eds) Vysgotskian
+Approaches to Second Language Research New
+Jersey Ablex Publishing Corporation 17394
+de Jong, F and R Simons 1992 Training
+metacognitive processes of self-regulated
+learning' in B Y L Wong (ed ) Contemporary Intervention Research m Learning Disabil-
+
+ANITA L WENDEN
+
+535
+
+Downloaded from http://applij.oxfordjournals.org/ at Pennsylvania State University on March 4, 2016
+
+Metacogmtion, Motivation and Understanding language learning of beginning university
+Hillsdale, NJ Lawrence Erlbaum Associates
+foreign language students ' The Modern LanGamer, R 1987 Metacogmtion and Reading guage Journal 72 283-94
+Comprehension New Jersey Ablex Publishing Hosenfeld, C 1984 'Case studies of ninth
+Corporauon
+grade readers' in J C Alderson and A H
+Urquhart (eds ) Reading in a Foreign LanGlaser, R 1984 'Education and thinking The
+role of knowledge ' American Psychologist 39 guage London Longman
+93-104
+Hosenfeld, C, V Arnold, J Kirchofer, J
+Gillette, B 1994 'The role of learner goals in
+Laciura and L. Wilson 1981 'Second
+L2 success' in J P Lantolf and G Appel
+language reading A cumcular sequence for
+(eds ) Vysgotshan Approaches to Second Lan- teaching reading strategies ' Foreign Language
+guage Research New Jersey Ablex Publishing Annals 4 415-22
+Corporauon 195-213
+Huttunen, I 1986 Towards learner autonomy
+in foreign language learning in Senior
+Grabe, W 1991 'Current development in
+Secondary School' Department of Teacher
+second language reading research ' TESOL
+Education, University of Oulu, Finland
+Quarterly 25 375—406
+Groteleschuen, A K , J G Borkowski and C
+Karmiloff-Smith, A and B Inhelder 1974/
+Hale 1990 'Strategy instruction is often
+75 'If you want to get ahead, get a theory '
+insufficient Addressing the interdependency
+Cognition 3 195-212
+of executive and attnbutional processes' in Kelly, R 1996 'Language counselling for
+T E Scruggs and B L Wong (eds)
+learner autonomy The skilled helper in
+Intervention Research in Learning Disabilitiesself-access language learning' in R PemberNew York Springer-Verlag
+ton, E Li, W Or, and H Pierson (eds )
+Autonomy in Language Learning Hong Kong
+Gremmo, M J and p Riley 1995 AutoUniversity Press
+nomy, self-direction and self-access in language teaching and learning The history of Kitchener, K S 1983 'Cognition, metacogman idea' in L Dickinson and A Wenden
+tion, and epistemic cognition ' Human Devel{eds) System An International Journal of
+opment 20 222-32
+Educational Technology and Applied Linguistics
+Lantolf, J and G Appel 1994 'Theoretical
+Special Issue on Learner Autonomy 23 151-64 framework An introduction to Vysgotskian
+Holec, H 1981 Autonomy and Foreign Language perspectives on second language research' in
+J P Lantolf and G Appel (eds ) Vysgotskian
+Learning Oxford Pergamon Press
+Approaches to Second Language Research NorHolec, H 1985a'On autonomy Some elementary concepts' in P Riley (ed ) Discourse and wood, NJ Ablex Publishing Corporation A32
+Learning New York Longman Inc
+Holec, H 1987 The learner as manager
+Little, D 1991 Learner Autonomy Definitions
+Managing learning or managing to learn' m
+Issues and Problems Authentik Language
+A Wenden and J Rubin (eds) Learner
+Learning Resources Ltd, Trinity College
+Strategies in Language Learning London
+Dublin
+Prentice Hall International
+Little, D 1994 'Learner autonomy A theoretical constnia and its practical application '
+Holec, H 1990 'Qu est-ce qu' apprendre a
+apprendre ' Melanges Pedagogique 24 75-88 Die Neuren Sprachen 93 430-42
+CRAPEL Universite de Nancy II, Nancy, Lloyd, P , L MuleckyandS C Huang 1997
+Prance
+'ESL and adult literacy reading-wnting selfHolec, H 1994 Self-Directed Learning An efficacy questionnaire' Paper presented at
+the AAAL annual conference, March 1997
+Alternative Form of Training Council for
+Cultural Cooperation, Council of Europe
+Lundeberg, M A 1987 'Meta cognitive
+Strasbourg
+aspects of reading comprehension Studying
+understanding in legal case analysis ' Reading
+Horowitz, E K 1987 'Surveying student
+Research Quarterly 22 407-32
+beliefs about language learning' in A
+Wenden and J Rubin (eds ) Learner Strat- Markman, E M 1981 'Comprehension monegies in Language Learning London, UK
+itoring' in W P Dickson (ed ) Children's Oral
+Prentice-Hall International
+Communication Skills New York Academic
+Horowitz, E K 1988 The beliefs about
+Press
+
+536
+
+METACOGNTTIVE KNOWLEDGE AND LANGUAGE LEARNING
+
+Downloaded from http://applij.oxfordjournals.org/ at Pennsylvania State University on March 4, 2016
+
+Mori, Y 1997 'Epistemological beliefs and
+exploratory study of learning behaviors and
+language learning beliefs What do language
+their relationship to gains in linguistic and
+learners believe about their learning?' Paper
+communicative competence' TESOL Quarpresented at the AERA annual conference,
+terly 19 103-23
+April 1997
+Resnick, L 1989 Introduction' in L B
+Resnick (ed ) Knowing, Learning and InstrucMueller-Verweyen, M 1995 Self-learning
+System for Greek, Spanish, German as a Foreigntion Essays tn Honor of Robert Glaser New
+Language for Adult Learners tn the European York Springer- Verlag
+Community Goethe Institute Munich, Ger- Riley, P 1996 'Bats and Balls Beliefs about
+many
+•
+Talk and Beliefs about Language Learning
+Plenary paper presented at the conference
+Naiman, N , M Frohlich, D Stern and A
+Todesco 1978 The Good Language Learner on Autonomy 2000 The development of
+learning independence in language learning
+Toronto, Ontario Ontario Institute for StudKing Mongut's Institute of Technology
+ies in Education
+Thonbun, Bangkok, Thailand
+Nickerson, R S, D N Perkins and E E
+Smith 1985 The Teaching of Thinking Hills- Rohwer, W D Jr and J W Thomas 1989
+dale, NJ Lawrence Erlbaum Associates
+'Domain specific knowledge, metacognition,
+and the promise of instructional reform' in
+O'Malley, M and A Chamot 1990 Learning
+Strategies m Second Language Acquisition NewCognitive Strategy Research From Basic Research
+to Educational Applications New York
+York 'Cambridge University Press
+Oxford, R 1990 Language Learning Strategies Springer Verlag
+What Every Teacher Should Know New York Rubin, J 1975 'What the good language
+Newbury House
+learner can teach us' TESOL Quarterly 9
+Paris, S G and M Myers II 1981 'Compre41-51
+hension monitoring memory, and study Rubin, J 1987 'Learner strategies Theoretical
+strategies of good and poor readers Journal
+assumptions, research history and typology'
+of Reading Behavior 12 5-22
+in A Wenden and J Rubin (eds ) Learner
+Strategies in Language learning London
+Paris, S G and J Y P Byrnes 1989 'The
+Prentice Hall International
+constructivist approach to self-regulation of
+learning in the classroom in B J Zimmer- Rubin, J and I Thompson 1994 How to Be a
+man and D H Schunk (eds) Self-Regulated More Successful Language Learner 2nd edition
+Learning and Academic Achievement New
+Boston, MA Heinle and Heinle
+York Springer Verlag
+Rubin, J 1995 'Learning processes and
+Paris, S G and P Winograd 1990 'How
+learner strategies' in V Galloway and C
+metacognition can promote academic learnHerron (eds) Research within Reach
+ing and instruction' in B F Jones and L Idol
+Southern Conference on Language Teach{eds ) Dimensions of Thinking and Cognitive ing Valdosta State University, Valdosta GA
+Instruction Hillsdale, NJ Lawrence Erlbaum Schoenfeld, A H and D J Hermann 1982
+Associates
+'Problem perception and knowledge structure in expert and novice mathematical
+Perkins, D N and G Salomon 1989 'Are
+problem solvers' Journal of Experimental
+cognitive skills context-bound?' Educational
+Psychology learning. Memory and Cognition 8
+Researcher 16-25
+484-94
+Perkins, D 1986 Thinking frames' Educational Leadership 43 4-10
+Schommer, L, M Crouse and N Rhodes
+Pintnch, P R , R W Marx and R A Boyle
+1992 'Epistemological beliefs and mathem1993 'Beyond cold conceptual change The
+atical text comprehension Believing it is
+role of motivational beliefs and classroom
+simple does not make it so' Journal of
+contextual factors in the process of concepEducational Psychology 84 435-43
+tual change ' Review of Educational ResearchSchommer, L 1990 'Effects of beliefs about
+63 167-200
+the nature of knowledge on comprehenPlan, E and F B Brooks 1994 T h e ' acquisision Journal of Educational Psychology 82
+tion-nch environment" revisited' The
+498-504
+Modern language Journal 78 497-511
+Sinclair, B 1996 Materials design for the
+promotion of learner autonomy How exphPolitzer, M and L McGroarty 1985 'An
+
+ANITA L WENDEN
+
+537
+
+Downloaded from http://applij.oxfordjournals.org/ at Pennsylvania State University on March 4, 2016
+
+at is "explicit"7' in R Pemberton, E Li, W
+guage learners know about their language
+Or, and H Pierson (eds) Autonomy in
+learning? A second look at retrospective
+Language Learning Hong Kong University
+accounts ' Applied Linguistics 7 186-205
+Press
+Wenden, A L 1987 'Metacognmon An
+expanded view on the cognitive abilities of
+Sturbndge, G 1996 New roles for learners
+L2 learners ' Language Learning 37 573-96
+Developing learners as "learner-teachers" '
+Plenary paper presented at the conference Wenden, A L 1987a 'How to be a successful
+on Autonomy 2000 The development of
+language learner' in A Wenden and J
+learning independence in language learning
+Rubin (eds ) Learner Strategies in Language
+King Mongut's Institute of Technology
+Learning London Prentice-Hall InternaThonbun Bangkok, Thailand
+tional
+Thomson, C K 1996 'Self-assessment in self- Wenden, A L. 1991 Learner Strategies for
+directed learning Issues of learner diversity'
+Learner Autonomy London Prentice-Hall
+in R Pemberton, E Li, W Or, and H Pierson
+International
+(eds ) Taking Control Autonomy in Language
+Wenden, A L 1995 'Learner training in
+Learning Hong Kong University Press
+context A knowledge-based approach' in L
+Vann, R and R Abraham 1990 'Strategies of
+Dickinson and A Wenden (eds ) System An
+unsuccessful language learners' TESOL
+International Journal of Educational Technology
+Quarterly 24 177-98
+and Applied Linguistics Speaal Issue on Learner
+Autonomy 23 183-94
+Victon, M and W Lockart 1995 'Enhancing
+metacogmtion in self-directed language Wenden, A L. 1997 'Learner training in
+learning in L Dickinson and A Wenden
+foreign/second language learning A curnc(eds ) System An International Journal of
+ular perspective for the 21st century'
+Educational Technology and Applied Linguistics Unpublished monograph
+Special Issue on Learner Autonomy 23 223-34Westhoff, G 1993 'Learning strategies and
+Victon, M 1995 ESL Writing Knowledge and learner autonomy' in I Huttunen (ed )
+Strategies An Integrative Study Unpublished Learning to Learn Languages Investigating Leardoctoral dissertation Department of English
+ner Strategies and Learner Autonomy Report'on
+Philology Autonomous University of BarceWorkshop 2b Council for Cultural Cooperalona, Spain
+<
+tion Council of Europe Strasbourg
+Volet, S E 1991 'Modelling and coaching of Wong, B Y L 1986 'Metacogmtion and
+relevant metacogmtive strategies for enhanspeaal education A review of a view'
+cing university students' learning ' Learning
+Journal of Special Education 20 9-29
+and Instruction 1 319-36
+Wong, B Y L 1991 'On the thorny issue of
+transfer in learning disabilities interventions
+Voss, J G , T R Greene , T A Post and B C
+Towards a three-prong solution' Invited
+Penner 1983 'Problem solving skill in the
+address presented at the Fourth European
+social sciences' in G H Bower (ed ) The
+Psychology of Learning and Motivation New Conference for Research in Learning and
+Instruction Turku, Finland
+York Academic Press
+Weinstein, C E and B Rogers 1985 'Com- Zimmerman, B' J 1989 "Models of selfregulated learning and academic achieveprehension monitoring The neglected learning strategy' Journal of Developmental ment in B J Zimmerman and D H Schunk
+(eds ) Self-Regulated Learning and Academic
+Education 9 6-29
+Achievement Theory, Research and Practice
+Wellman, H M 1985 The origins of metaNew York Springer-Verlag
+cognmon' in D L Forrest-Pressley, G E
+McKinnon and T G Waller (eds ) Metacog- Zimmerman, B J and A Bandura 1994
+mtion, Cognition and Human Performance New 'Impact of self-regulatory influences on
+York Academic Press
+writing course attainment' American EducaWenden, A L 1986 'What do second lantional Research Journal 31 845-62
+
+
